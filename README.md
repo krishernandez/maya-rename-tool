@@ -3,3 +3,5 @@ This module is focused on selecting, creating and renaming objects in a Python m
 This simplifies repetitive tasks in Maya when running the script. 
 
 This project is a current work in progress and is expected to have plenty of bugs.
+
+Original start date: October 24th, 2024
